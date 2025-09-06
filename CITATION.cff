@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Infinite Dimensional Bayesian Posterior Operator (1)"
+authors:
+  - family-names: "Villalobos-Gonzalez"
+    given-names: "Santiago de Jesus"
+    orcid: "https://orcid.org/0009-0004-9601-5617"
+type: software
+abstract: >
+  We develop and rigorously validate an infinite-dimensional Bayesian posterior operator for updating distributions over asset weights or model parameters in function-space Bayesian frameworks. This operator sup- ports nonparametric modeling using Gaussian process priors and fully quantifies uncertainty in hierarchical asset allocation. We provide theo- retical derivation, detail each algorithmic component, and present com- prehensive empirical stress tests including noise misspecification, kernel misspecification, posterior contraction diagnostics, and eigenvalue stabil- ity checks. Our extensive tests confirm the robustness and correctness of this operator, paving the way for advanced Bayesian portfolio optimiza-
+keywords:
+  - Bayesian Inference
+  - Infinite-Dimensional
+  - Posterior Operator
+  - Gaussian Processes
+  - Bayesian Inverse Problems
+  - Functional Analysis
+license: MIT
+repository-code: "https://github.com/OWNER/REPO"  # replace with your repo URL
+preferred-citation:
+  type: article
+  title: "Infinite Dimensional Bayesian Posterior Operator (1)"
+  authors:
+    - family-names: "Villalobos-Gonzalez"
+      given-names: "Santiago de Jesus"
+      orcid: "https://orcid.org/0009-0004-9601-5617"
+  year: 2025
+  doi: "10.5281/zenodo.{ZENODO_RECORD_ID}"  # replace after first release
